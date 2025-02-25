@@ -1,3 +1,7 @@
+html {
+  height: -webkit-fill-available;
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -14,6 +18,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
+  min-height: -webkit-fill-available;
   background-color: #8ea8c7;
   overflow-x: hidden;
   background-image: url("web-assets/background-original.jpg");
