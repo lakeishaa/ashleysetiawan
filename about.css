@@ -15,7 +15,7 @@ body {
   justify-content: center;
   align-items: center;
   /* min-height: 100vh; */
-  min-height:height: calc(var(--vh, 1vh) * 100);
+  min-height: calc(var(--vh, 1vh) * 100);
 
   background-color: #f4f4f4;
   /* overflow-x: hidden; */
