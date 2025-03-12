@@ -19,7 +19,7 @@ body {
   align-items: center;
   min-height: 100vh;
   /* min-height: -webkit-fill-available; */
-  /* background-color: #8ea8c7; */
+  background-color: #000000;
   overflow-x: hidden;
   background-image: url("web-assets/background-original.jpg");
   background-repeat: repeat;
