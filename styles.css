@@ -19,7 +19,7 @@ body {
   align-items: center;
   min-height: 100vh;
   /* min-height: -webkit-fill-available; */
-  background-color: #000000;
+  background-color: #799ABD;
   overflow-x: hidden;
   background-image: url("web-assets/background-original-2.jpg");
   background-repeat: repeat;
@@ -478,7 +478,7 @@ video {
   body{
     background-color: #000000;
   }
-  
+
   .gallery {
     grid-template-rows: repeat(1, 159vw);
     grid-template-areas:
