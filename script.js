@@ -291,7 +291,7 @@ document.addEventListener("DOMContentLoaded", () => {
       document.documentElement.scrollHeight - window.innerHeight;
 
     if (!catTriggered && scrollPosition > pageHeight * 0.4) {
-      createFlyImage("web-assets/cat.GIF", 1400);
+      createFlyImage("web-assets/cat.GIF", 2300);
       catTriggered = true;
     }
 

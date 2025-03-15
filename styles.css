@@ -21,7 +21,7 @@ body {
   /* min-height: -webkit-fill-available; */
   background-color: #000000;
   overflow-x: hidden;
-  background-image: url("web-assets/background-original.jpg");
+  background-image: url("web-assets/background-original-2.jpg");
   background-repeat: repeat;
   background-size: contain;
   background-position: center;
@@ -168,7 +168,7 @@ h1 {
     ". p p p p p . . q q q q ."
     ". . . t t t t t t t . . ."
     ". . s s s . . r r r r r ."
-    ". v v v . u u u u u u u .";
+    ". . u u u u u u u u . . .";
 
   gap: 10px;
   width: 90%;
