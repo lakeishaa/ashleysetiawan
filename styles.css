@@ -474,6 +474,11 @@ video {
 }
 
 @media (max-width: 768px) {
+
+  body{
+    background-color: #000000;
+  }
+  
   .gallery {
     grid-template-rows: repeat(1, 159vw);
     grid-template-areas:
@@ -540,6 +545,10 @@ video {
 @media (max-width: 900px) {
   .topnav a{
     color: #fcf2d8 !important;
+  }
+
+  body{
+    background-color: #000000;
   }
 }
 
