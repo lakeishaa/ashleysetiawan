@@ -16,8 +16,8 @@ body {
   align-items: center;
   /* min-height: 100vh; */
   /* min-height: calc(var(--vh, 1vh) * 100); */
-min-height: 100%;
-  /* background-color: #f4f4f4; */
+  min-height: 100%;
+  background-color: #799ABD;
   /* overflow-x: hidden; */
   background-image: url("web-assets/background-2.JPG");
   background-repeat: no-repeat;
@@ -517,12 +517,18 @@ video {
     background-size: 250vw auto;
     background-image: url("web-assets/background-2.JPG");
     background-repeat: no-repeat;
+    background-color: #000000;
+
   }
 }
 
 @media (max-width: 900px) {
   .topnav a {
     color: #fcf2d8 !important;
+  }
+
+  body{
+    background-color: #000000;
   }
 }
 /* 
