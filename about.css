@@ -508,9 +508,9 @@ video {
     height: 50vh;
   } */
 
-  .topnav {
+  /* .topnav {
     color: #fcf2d8 !important;
-  }
+  } */
 
   body {
     overflow: visible;
@@ -622,7 +622,7 @@ video {
   /* -webkit-text-stroke: 0.5px #7597BB; */
   /* color: #7597bb; */
   color: #5d7da1;
-  text-shadow: 0px 0px 7px #fffcc1 !important;
+  /* text-shadow: 0px 0px 7px #fffcc1 !important; */
 
   /* color:#9198BB; */
   /* color: #FCF2D8; */
